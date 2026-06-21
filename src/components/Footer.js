@@ -19,8 +19,8 @@ export default function Footer() {
         <div className="footer-info">
           <p className="footer-name">Saksham Sontakke</p>
           <p className="footer-email">
-            <a href="mailto:sakshamsontakke@gmail.com">
-              sakshamsontakke@gmail.com
+            <a href="mailto:sakshamsontakke713@gmail.com">
+              sakshamsontakke713@gmail.com
             </a>
           </p>
         </div>
